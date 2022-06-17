@@ -25,15 +25,19 @@ experience:
   - title: Senior Consultant
     company: IAJU (Instituto Aguascalentense de la Juventud)
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-iaju
     location: Mexico
     date_start: '2022-01-01'
     date_end: '2022-06-10'
     description: |2-
         Responsibilities include:
     
-        * Analysing 
-        * Solving problems about low participation of youth at their calls. 
+        * Analysing.
+        * Solving problems about low participation of youth at calls. 
+        * Interviewing to head of departaments.
+        * Problems tree.
+        * Solving tree.
+        * Logical framework matrix (logframe)
         
 
   - title: Senior Lead Consultant
@@ -41,20 +45,52 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Mexico
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: I carried out an impact evaluation of an educational program implemented in elementary         and middle schools in 7 states of Mexico (Hidalgo, Michoacán, Nuevo León, Durango, San Luis             Potosí, Coahuila and Guanajuato) to know the impact on bullying, dropping out school and teenage         pregnancy.I carried out an impact evaluation of an educational program implemented in elementary         and  middle schools in 7 states of Mexico (Hidalgo, Michoacán, Nuevo León, Durango, San   Luis         Potosí, Coahuila and Guanajuato) to know the impact on bullying, dropping out school and teenage         pregnancy.Method of impact evaluation Difference-in- Differences (DiD) Indicators Design policy          evaluation.
+    date_start: '2021-06-01'
+    date_end: '2021-12-31'
+    description: |2-
+        Role:
+        
+        
+        * I carried out an impact evaluation of an educational program implemented in elementary             and middle schools in 7 states of Mexico (Hidalgo, Michoacán, Nuevo León, Durango,               San Luis Potosí, Coahuila and Guanajuato) to know the impact on bullying, dropping out             school and teenage pregnancy. 
+        
+        
+        * Method of impact evaluation Difference-in- Differences (DiD).  
+        * Indicators
+        * Evaluation of Design Policy 
+        * Impact Evaluation.
   
-
-  - title: Senior Lead Consultant
-    company: IAPF (Instituto de Analisis de Politica Familiar)
+  
+  
+  - title: Research assistant
+    company: CIDE
     company_url: ''
-    company_logo: org-x
+    company_logo: org-c
     location: Mexico
-    date_start: '2016-04-01'
-    date_end: '2020-05-31'
-    description: Embassy of Mx
+    date_start: '2020-06-01'
+    date_end: '2021-08-02'
+    description: |2-
+        Responsibilities include:
+        
+        * The consulting project was a collaboration between CIDE and UNICEF, whose purpose     was            to estimate the supply and demand gap in initial education, design a methodology                  to monitor the gap and estimate the expansion cost.  
+        * Coding more than 5,000 requests for information to government agencies and offices                 (federal, state, and municipal) to build a database and estimate the coverage gap in               early childhood education in Mexico. * I made requests for information to know the demand           for initial education in 17 states of the country.
+        * I made requests for information to know the demand for initial education in 17 states of           the country.
 
+
+  
+  - title: Assistant Consultant
+    company: IEGEMER (Instituto Estatal de Gestión Empresarial y Mejora Regulatoria)
+    company_url: ''
+    company_logo: org-c
+    location: Mexico
+    date_start: '2018-01-01'
+    date_end: '2018-07-31'
+    description: |2-
+        Responsibilities include:
+        
+        * The consulting project was a collaboration between CIDE and UNICEF, whose purpose     was            to estimate the supply and demand gap in initial education, design a methodology                  to monitor the gap and estimate the expansion cost.  
+        * Coding more than 5,000 requests for information to government agencies and offices                 (federal, state, and municipal) to build a database and estimate the coverage gap in               early childhood education in Mexico. * I made requests for information to know the demand           for initial education in 17 states of the country.
+        * I made requests for information to know the demand for initial education in 17 states of           the country.
+    
 design:
   columns: '2'
 ---

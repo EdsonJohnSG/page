@@ -87,9 +87,13 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * The consulting project was a collaboration between CIDE and UNICEF, whose purpose     was            to estimate the supply and demand gap in initial education, design a methodology                  to monitor the gap and estimate the expansion cost.  
-        * Coding more than 5,000 requests for information to government agencies and offices                 (federal, state, and municipal) to build a database and estimate the coverage gap in               early childhood education in Mexico. * I made requests for information to know the demand           for initial education in 17 states of the country.
-        * I made requests for information to know the demand for initial education in 17 states of           the country.
+        * The effectiveness of the implementation of the "Ventanilla Digital" program in the state           government of Aguascalientes was analyzed for state and municipal procedures. 
+        * Five procedures were taken as a sample: driver's license, inscription of purchase sale,            registration to the unique list of providers, certified record, and issuance of tax                assessment.  
+        * Make final reports 
+        * Problem solving 
+        * Problem tree 
+        * Objective tree              
+        * Logical Framework  
     
 design:
   columns: '2'

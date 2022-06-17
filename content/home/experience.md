@@ -58,6 +58,7 @@ experience:
         * Indicators
         * Evaluation of Design Policy 
         * Impact Evaluation.
+        * Interviews to policy designer, street-level-bureaucrats.
   
   
   
@@ -80,7 +81,7 @@ experience:
   - title: Assistant Consultant
     company: IEGEMER (Instituto Estatal de Gestión Empresarial y Mejora Regulatoria)
     company_url: ''
-    company_logo: org-c
+    company_logo: org-iegemer
     location: Mexico
     date_start: '2018-01-01'
     date_end: '2018-07-31'
@@ -94,6 +95,22 @@ experience:
         * Problem tree 
         * Objective tree              
         * Logical Framework  
+  
+  - title: Legislative Advisor Chamber of Deputies H. Congress of the Union.
+    company: Cámara de Diputados,Legislative Palace, LXIII Legislature.
+    company_url: ''
+    company_logo: org-camara
+    location: Mexico
+    date_start: '2016-01-01'
+    date_end: '2016-07-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Make legislative initiatives about youth.
+        * Make legislative initiatives about migration.
+        * Make legislative initiatives about international trade (NAFTA)
+        
+      
     
 design:
   columns: '2'

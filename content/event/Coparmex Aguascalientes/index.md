@@ -23,12 +23,12 @@ links:
   url: https://twitter.com/Edson_JohnSG
 location: Aguascalientes Business Center
 projects:
-- example
+- Prepation
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An talk about the importance of the education of the leaders' in Mexico for a positive impact in the country.
 tags: []
-title: Preparation And knowledge Talk
+title: Preparation Talk
 url_code: ""
 url_pdf: ""
 url_slides: ""

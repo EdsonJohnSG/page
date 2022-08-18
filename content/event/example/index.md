@@ -23,7 +23,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/Edson_JohnSG
 location: Wowchemy HQ
 projects:
 - example

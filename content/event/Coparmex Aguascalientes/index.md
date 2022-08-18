@@ -28,7 +28,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An talk about the importance of the education of the leaders' in Mexico for a positive impact in the country.
 tags: []
-title: Preparation and knowledge, never improvisation
+title: Preparation And knowledge Talk
 url_code: ""
 url_pdf: ""
 url_slides: ""

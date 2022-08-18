@@ -28,7 +28,7 @@ interests:
 organizations:
 - name: Center for Research and Teaching in Economics (CIDE-MX)
   url: https://www.cide.edu/
-role: Senior Research Assistant 
+role: Consultant, Analyst and Senior Research Assistant 
 social:
 - icon: envelope
   icon_pack: fas

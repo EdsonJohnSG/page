@@ -23,7 +23,7 @@ links:
   url: https://twitter.com/Edson_JohnSG
 location: Aguascalientes Business Center
 projects:
-- Prepation
+- Coparmex
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An talk about the importance of the education of the leaders' in Mexico for a positive impact in the country.

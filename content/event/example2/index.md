@@ -1,15 +1,15 @@
 ---
-abstract: I presented the conference "Preparation and knowledge, never improvisation" at the Aguascalientes Business Center.
+abstract: I presented some points about youth problems in the mexican case to 300 youth members of representative chamber at  Senate of the Republic.
 address:
-  city: Aguascalientes City
+  city: Mexico City
   country: Mexico
-  postcode: "20240"
-  region: Aguascalientes
-  street: 104 José María Chávez
+  postcode: "06030"
+  region: CDMX
+  street: 135 Paseo de la Reforma
 all_day: false
 authors: []
-date: "2018-08-23T20:00:00Z"
-date_end: "2018-08-23T21:00:00Z"
+date: "2020-05-14T09:00:00Z"
+date_end: "2020-05-14T17:00:00Z"
 event: Business Conference
 event_url: https://example.org
 featured: false
@@ -26,9 +26,9 @@ projects:
 - Coparmex
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: An talk about the importance of the education of the leaders' in Mexico for a positive impact in the country.
+summary: An talk about youth in Mexico: learnings, challenges, and proposals. 
 tags: []
-title: Preparation Talk
+title: Youth Changemakers
 url_code: ""
 url_pdf: ""
 url_slides: ""

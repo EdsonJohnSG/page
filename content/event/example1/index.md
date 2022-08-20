@@ -26,7 +26,7 @@ projects:
 - Chambers
 summary: An talk about youth in Mexico: learnings, challenges, and proposals. 
 tags: []
-title: Youth Changemakers
+title: Youth Changemakers Talk
 
 ---
 

@@ -7,7 +7,7 @@ image:
 summary: A research project about the process of construction of main railroads at Veracruz: identify main actors, administrative, economical and political process.  
 tags:
 - Railroads
-title: Research about railroads at Mexico's Southeast 
+title: Research about railroads at Mexico Southeast 
 url_code: ""
 url_pdf: ""
 url_slides: ""

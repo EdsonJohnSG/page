@@ -8,8 +8,4 @@ summary: A research project about the process of construction of main railroads 
 tags:
 - Railroads
 title: Research about railroads at Mexico Southeast 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 ---

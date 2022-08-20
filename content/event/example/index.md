@@ -1,19 +1,16 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: I presented the conference "Preparation and knowledge, never improvisation" at the Aguascalientes Business Center.
 address:
-  city: Mexico City
+  city: Aguascalientes City
   country: Mexico
-  postcode: "04960"
-  region: CDMX
-  street: 450 Hacienda Texmelucan
+  postcode: "20240"
+  region: Aguascalientes
+  street: 104 José María Chávez
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
+date: "2018-08-23T20:00:00Z"
+date_end: "2018-08-23T21:00:00Z"
+event: Business Conference
 event_url: https://example.org
 featured: false
 image:
@@ -24,14 +21,14 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/Edson_JohnSG
-location: Wowchemy HQ
+location: Aguascalientes Business Center
 projects:
-- example
+- Coparmex
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: An talk about the importance of the education of the leaders' in Mexico for a positive impact in the country.
 tags: []
-title: Example Talk
+title: Preparation Talk
 url_code: ""
 url_pdf: ""
 url_slides: ""

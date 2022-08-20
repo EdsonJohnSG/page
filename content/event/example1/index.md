@@ -23,7 +23,7 @@ links:
   url: https://twitter.com/Edson_JohnSG
 location: Senate of the Republic.
 projects:
-- example
+- Chambers
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An talk about youth in Mexico: learnings, challenges, and proposals. 

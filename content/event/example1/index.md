@@ -25,14 +25,10 @@ location: Senate of the Republic.
 projects:
 - Chambers
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
 summary: An talk about youth in Mexico: learnings, challenges, and proposals. 
 tags: []
 title: Youth Changemakers
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+
 ---
 
 

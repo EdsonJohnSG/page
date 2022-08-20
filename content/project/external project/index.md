@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: A research project about the process of construction of main railroads at Veracruz: identify main actors, administrative, economical and political process.  
 tags:
-- Railroads Veracruz
+- Railroads
 title: Research about railroads at Mexico's Southeast 
 url_code: ""
 url_pdf: ""

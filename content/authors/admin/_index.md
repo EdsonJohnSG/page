@@ -17,7 +17,7 @@ education:
   - course: English course certificate
     institution: ASC English Commonwealth (Boston -USA)
     year: 2018
-email: ""
+email: "edsonjohn3@gmail.com"
 highlight_name: true
 interests:
 - Educational Policy (Mexico and Latam)

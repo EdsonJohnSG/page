@@ -46,10 +46,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/johnsga/
 superuser: true
-title: Edson John Sanchez Gonzalez
+title: John Sanchez Gonzalez
 ---
 
-Edson John Sanchez Gonzalez is a consultant and analyst for private and public sectors. Also, he's a senior research assistant at the Center for Research and Teaching in Economics. His research interests include education and policy analysis using statistical analysis (R, Stata, Python) and qualitative analysis (Atlas.ti) and the processing of geospatial data using QGIS in specific.
+John Sanchez Gonzalez is a consultant and analyst for private and public sectors. Also, he's a senior research assistant at the Center for Research and Teaching in Economics. His research interests include education and policy analysis using statistical analysis (R, Stata, Python) and qualitative analysis (Atlas.ti) and the processing of geospatial data using QGIS in specific.
 
 
 With more than 3 years' experience in public sector consultancies, Sanchez-Gonzalez has a wide range of experience in policy briefs, policy analysis and reports of consultancies at the public sector about education, employment,and gender equality. 
